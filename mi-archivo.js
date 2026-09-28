@@ -1,2 +1,4 @@
-// Este es mi primer archivo de prueba para el laboratorio de GitHub
-console.log('Hola mundo');
+// modifique el contenido
+alert("Hola mundo_editado");
+console.log("cambios en el archivo");
+```
